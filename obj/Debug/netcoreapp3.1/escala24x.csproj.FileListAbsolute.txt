@@ -1,0 +1,13 @@
+C:\code\escala24x\bin\Debug\netcoreapp3.1\escala24x.exe
+C:\code\escala24x\bin\Debug\netcoreapp3.1\escala24x.deps.json
+C:\code\escala24x\bin\Debug\netcoreapp3.1\escala24x.runtimeconfig.json
+C:\code\escala24x\bin\Debug\netcoreapp3.1\escala24x.runtimeconfig.dev.json
+C:\code\escala24x\bin\Debug\netcoreapp3.1\escala24x.dll
+C:\code\escala24x\bin\Debug\netcoreapp3.1\escala24x.pdb
+C:\code\escala24x\obj\Debug\netcoreapp3.1\escala24x.csprojAssemblyReference.cache
+C:\code\escala24x\obj\Debug\netcoreapp3.1\escala24x.csproj.CoreCompileInputs.cache
+C:\code\escala24x\obj\Debug\netcoreapp3.1\escala24x.AssemblyInfoInputs.cache
+C:\code\escala24x\obj\Debug\netcoreapp3.1\escala24x.AssemblyInfo.cs
+C:\code\escala24x\obj\Debug\netcoreapp3.1\escala24x.dll
+C:\code\escala24x\obj\Debug\netcoreapp3.1\escala24x.pdb
+C:\code\escala24x\obj\Debug\netcoreapp3.1\escala24x.genruntimeconfig.cache
